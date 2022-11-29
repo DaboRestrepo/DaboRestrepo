@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniela</h1>
 <h3 align="center">A software developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Django REST Framework and will start with Java and how to make art with JavaScript.**
+- 🌱 I’m currently learning **Django REST Framework and JavaScript.**
 
 - 👯 I’m looking to collaborate on **professional projects and those ones that are for fun too.**
 
